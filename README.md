@@ -1,1 +1,5 @@
-Implementation of a Bidirectional LSTM model for Kaggle's "CommonLit Readability Prize" challenge. The source data sets can be downloaded from Kaggle's website. The code requires GloVe embeddings and these can be downloaded from https://nlp.stanford.edu/projects/glove/
+<h3> Bidirectional LSTM model for performing a language-related regression task  </h3>
+<b> Data Source: Kaggle </b> </br>
+<b> URL: https://www.kaggle.com/competitions/commonlitreadabilityprize</b> </br> </br>
+
+This code requires GloVe embeddings and these can be downloaded from https://nlp.stanford.edu/projects/glove/
